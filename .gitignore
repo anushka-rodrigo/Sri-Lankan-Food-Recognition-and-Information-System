@@ -1,0 +1,19 @@
+# images: shared via Drive, see data/imgs_raw/README.md
+data/imgs_raw/*
+!data/imgs_raw/README.md
+data/imgs_cleaned/*
+!data/imgs_cleaned/.gitkeep
+data/imgs_split/*
+!data/imgs_split/.gitkeep
+
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# large model files (share via Drive instead)
+*.h5
+*.pt
+*.pth

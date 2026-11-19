@@ -1,0 +1,8 @@
+# Illustrative recipe model — not measured nutrition
+
+These five rows are simplified hypothetical recipes, not analyzed Sri Lankan foods, verified recipes, or clinical/label values. Ingredients, water, cooked batch weights and serving weights are assumptions in `nutrition_model_inputs.json`; actual preparations can vary substantially. Vada uses lentils as a pulse proxy, and retained frying oil is an uncertain assumption. Small ingredients, salt, nutrient losses and fermentation are omitted; fibre is included in total carbohydrate. Water adds weight but no modelled macronutrients. All nutrients are assumed retained; estimated cooked yield controls concentration. The example portions are assumptions, not standard serving sizes.
+
+Per-100-g nutrient = sum of ingredient mass × ingredient nutrient per 100 g / assumed cooked yield. Per-serving nutrient = per-100-g nutrient × assumed serving weight / 100. Ingredient values are per 100 g edible ingredient, with assumed retained oil (not total oil in a pan). Profiles are attributed to USDA SR Legacy FDC records, but transcribed from the linked third-party displays because the USDA API could not be accessed here. Direct primary-source verification is still required before relying on or publishing these numbers. Olive oil approximates generic oil only; its fatty-acid profile is not representative of every frying oil.
+
+`nutrition_model_estimates.csv` is deliberately separate from source-reported nutrition: do not merge without preserving the `MODELLED_RECIPE_ESTIMATE` status and assumptions. Prefer a matching Sri Lankan food composition record where suitable, with permissions confirmed.
+

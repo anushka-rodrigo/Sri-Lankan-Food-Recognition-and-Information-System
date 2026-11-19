@@ -1,0 +1,11 @@
+﻿food_id,image_class,variant,ingredients_and_recipe,publisher_nutrition,illustrative_scenario,validated_per_100g
+rice_001,rice,"plain white rice, stovetop",available,source_reported_approximate,not_provided,not_available
+hoppers_001,hoppers,plain fermented rice-flour hopper,available,not_reported,available_unvalidated,not_available
+string_hoppers_001,string_hoppers,plain rice-flour string hoppers,available,not_reported,available_unvalidated,not_available
+pittu_001,pittu,rice-flour coconut pittu,available,not_verified,available_unvalidated,not_available
+kiribath_001,kiribath,kekulu rice with coconut milk,available,not_reported,available_unvalidated,not_available
+paratha_001,paratha,plain whole-wheat layered paratha,available,source_reported_approximate,not_provided,not_available
+kottu_001,kottu,chicken and egg kottu; cheese optional in source,available,source_reported_approximate,not_provided,not_available
+dosa_001,dosa,plain fermented rice and urad dosa,available,source_reported_approximate,not_provided,not_available
+idli_001,idli,recipe 1 rice and urad idli,available,source_reported_approximate,not_provided,not_available
+vada_001,vada,masala vada / chana dal vada,available,quarantined_unclear_basis,available_unvalidated,not_available
