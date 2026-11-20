@@ -6,6 +6,9 @@ data/imgs_cleaned/*
 data/imgs_split/*
 !data/imgs_split/.gitkeep
 
+# imgs in logs
+logs/dedup/sheets
+
 # python / notebooks
 __pycache__/
 .ipynb_checkpoints/
