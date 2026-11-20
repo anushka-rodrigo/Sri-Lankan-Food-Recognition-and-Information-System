@@ -17,7 +17,6 @@ data/raw/
 ├─ Pittu/
 ├─ Rice/
 ├─ String Hoppers/
-└─ Vada/
 ```
 
 One folder = one class label. Folder names map to canonical class names in code/metadata:
@@ -33,7 +32,6 @@ One folder = one class label. Folder names map to canonical class names in code/
 | Pittu | pittu | |
 | Rice | rice | Plain rice AND rice-and-curry images (one class) |
 | String Hoppers | string_hoppers | Indiappa |
-| Vada | vada | [variant: e.g. parippu vadai] |
 
 ## Contents (raw, before cleaning)
 
@@ -48,7 +46,6 @@ One folder = one class label. Folder names map to canonical class names in code/
 | Pittu | [359] | [ ] |
 | Rice | [633] | plain ~426, rice and curry ~207 |
 | String Hoppers | [52] | [ ] |
-| Vada | [TBD] | [ ] |
 
 Counts are updated as of [date]. The numbers will drop after cleaning.
 
