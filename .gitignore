@@ -6,8 +6,8 @@ data/imgs_cleaned/*
 data/imgs_split/*
 !data/imgs_split/.gitkeep
 
-# imgs in logs
-logs/*/sheets
+# system logs
+logs/
 
 # python / notebooks
 __pycache__/
