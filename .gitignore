@@ -7,7 +7,7 @@ data/imgs_split/*
 !data/imgs_split/.gitkeep
 
 # imgs in logs
-logs/dedup/sheets
+logs/*/sheets
 
 # python / notebooks
 __pycache__/
