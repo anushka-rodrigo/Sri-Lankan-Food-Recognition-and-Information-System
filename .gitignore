@@ -2,9 +2,9 @@
 data/imgs_raw/*
 !data/imgs_raw/README.md
 data/imgs_cleaned/*
-!data/imgs_cleaned/.gitkeep
+!data/imgs_cleaned/README.md
 data/imgs_split/*
-!data/imgs_split/.gitkeep
+!data/imgs_split/README.md
 
 # system logs
 logs/
