@@ -20,10 +20,10 @@ photo → resize/normalize → CNN → class probabilities → top prediction �
 ```
 Sri-Lankan-Food-Recognition-and-Information-System/
 ├─ data/
-│  ├─ raw/         original images (not in GitHub, see data/raw/README.md)
-│  ├─ clean/       cleaned images (not in GitHub)
-│  ├─ split/       train / val / test (not in GitHub)
-│  └─ nutrition/   food metadata: ingredients, recipes, nutrition (in GitHub)
+│  ├─ imgs_raw/         original images (not in GitHub, see data/raw/README.md)
+│  ├─ imgs_cleaned/       cleaned images (not in GitHub, see data/raw/README.md)
+│  ├─ imgs_split/       train / val / test (not in GitHub)
+│  └─ food_info/   food metadata: ingredients, recipes, nutrition (in GitHub)
 ├─ notebooks/      cleaning, training, evaluation
 ├─ models/         saved model weights (if small)
 ├─ reports/        report, figures, slides
@@ -52,7 +52,12 @@ Sri-Lankan-Food-Recognition-and-Information-System/
 
 ## Team
 
-[Name – ID], [Name – ID], [Name – ID], [Name – ID]
+| Name | Index No. | Reg. No. | Department |
+|---|---|---| --- |
+| M.A.O. Rodrigo | FC221019 | FC115278 | CS |
+| M.M.F. Ramla | FC221030 | FC115304 | CS |
+| Y.R.N. Sanjaya | FC221050 | FC116340 | CS |
+| M.D.S.H. Edirisinghe | FC221012 | FC115262 | CS |
 
 ## Credits
 
