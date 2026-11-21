@@ -1,6 +1,0 @@
-food_id,variant,estimate_type,yield_g_assumed,serving_g_assumed,energy_kcal_per_100g,energy_kcal_per_serving,protein_g_per_100g,protein_g_per_serving,carbohydrate_g_per_100g,carbohydrate_g_per_serving,fat_g_per_100g,fat_g_per_serving,fiber_g_per_100g,fiber_g_per_serving,notes
-hoppers_001,plain hopper,MODELLED_RECIPE_ESTIMATE,600,60,217.37,130.42,3.05,1.83,34.76,20.86,7.38,4.42,1.55,0.93,"Yeast, salt and sugar omitted; pan oil retained assumed 5 g; olive oil is a generic oil proxy."
-string_hoppers_001,plain rice-flour string hoppers,MODELLED_RECIPE_ESTIMATE,500,100,183.0,183.0,2.98,2.98,40.05,40.05,0.71,0.71,1.2,1.2,Salt omitted; assumed steamed yield.
-pittu_001,rice flour and coconut pittu,MODELLED_RECIPE_ESTIMATE,500,150,253.8,380.7,3.64,5.46,43.09,64.64,7.41,11.12,3.0,4.5,Salt omitted; assumed steamed yield.
-kiribath_001,plain milk rice,MODELLED_RECIPE_ESTIMATE,900,150,152.5,228.75,2.49,3.73,23.45,35.18,5.47,8.21,0.85,1.27,Salt omitted; assumes all rice and coconut milk remain in dish.
-vada_001,"lentil vada, simplified",MODELLED_RECIPE_ESTIMATE,450,60,274.13,164.48,13.67,8.2,35.22,21.13,9.48,5.69,5.94,3.57,"Lentils are a proxy for the pulse used; onion, chillies and spices omitted. Assumes 40 g retained oil; olive oil is a generic oil proxy. Not an urad-dal or vada-pav profile."
