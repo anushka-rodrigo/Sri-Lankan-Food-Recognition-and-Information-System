@@ -1,0 +1,10 @@
+class_idx,folder,lookup_name,display_name,status,n_images
+0,dosa,Dosa,Plain Dosa (Dosai),estimated,181
+1,hoppers,Hoppers,Plain Hoppers (Appa),reported,156
+2,idli,Idli,Plain Idli,estimated,86
+3,kottu,Kottu,Chicken Kottu Roti,estimated,66
+4,milk_rice,Milk Rice,Milk Rice (Kiribath),reported,143
+5,paratha,Parata,Layered Parotta (Parata),estimated,114
+6,pittu,Pittu,Rice Flour and Coconut Pittu,reported,249
+7,rice,Rice,Plain White Rice,reported,293
+8,string_hoppers,String Hoppers,String Hoppers (Indiappa),reported,83
