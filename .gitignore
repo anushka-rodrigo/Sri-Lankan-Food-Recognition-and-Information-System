@@ -6,6 +6,7 @@ data/imgs_cleaned/*
 data/imgs_split/*
 !data/imgs_split/README.md
 data/meta/*.npy
+data/imgs_prepared/
 
 # system logs
 logs/
